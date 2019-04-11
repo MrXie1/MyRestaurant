@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bf109248-93f6-4196-87ec-e4b7d203bb73",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "我在看星星，你来吗？": {
+      "ver": "1.0.3",
+      "uuid": "4cfc325e-1a6c-4a5f-8431-464fa5e5b831",
+      "rawTextureUuid": "bf109248-93f6-4196-87ec-e4b7d203bb73",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 500,
+      "height": 400,
+      "rawWidth": 500,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ac41c58c-83db-4aa8-824c-7238422d12d5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "多么安静的晚上，来一次消灭星星吧！": {
+      "ver": "1.0.3",
+      "uuid": "7aadf3f3-73d8-4249-a600-90a043bcdf61",
+      "rawTextureUuid": "ac41c58c-83db-4aa8-824c-7238422d12d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 500,
+      "height": 400,
+      "rawWidth": 500,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
